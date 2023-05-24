@@ -1,2 +1,3 @@
 # cdn
-all cdn
+
+This repository serves as my personal CDN (Content Delivery Network), providing a centralized storage and distribution solution for various web assets. By leveraging this CDN, I aim to enhance the performance and reliability of websites and applications that rely on my hosted content. With efficient caching, global distribution, and optimized delivery, this repository ensures faster load times and seamless user experiences. Feel free to explore the available assets and leverage them in your own projects. Contributions and feedback are always welcome as we strive to improve the reliability and accessibility of web content.
